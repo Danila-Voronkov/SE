@@ -1,0 +1,17 @@
+C:\Work\ПИ\SEngineering\SEngineering\bin\Debug\net8.0-windows\SEngineering.exe
+C:\Work\ПИ\SEngineering\SEngineering\bin\Debug\net8.0-windows\SEngineering.deps.json
+C:\Work\ПИ\SEngineering\SEngineering\bin\Debug\net8.0-windows\SEngineering.runtimeconfig.json
+C:\Work\ПИ\SEngineering\SEngineering\bin\Debug\net8.0-windows\SEngineering.dll
+C:\Work\ПИ\SEngineering\SEngineering\bin\Debug\net8.0-windows\SEngineering.pdb
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.Form1.resources
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.csproj.GenerateResource.cache
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.AssemblyInfoInputs.cache
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.AssemblyInfo.cs
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.csproj.CoreCompileInputs.cache
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.dll
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\refint\SEngineering.dll
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.pdb
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.genruntimeconfig.cache
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\ref\SEngineering.dll
+C:\Work\ПИ\SEngineering\SEngineering\obj\Debug\net8.0-windows\SEngineering.Properties.Resources.resources
